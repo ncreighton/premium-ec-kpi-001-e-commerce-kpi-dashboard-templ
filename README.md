@@ -1,0 +1,2 @@
+# premium-ec-kpi-001-e-commerce-kpi-dashboard-templ
+You're drowning in spreadsheets and scattered metrics while your e-commerce business data lives everywhere except where you need it. The E-Commerce KPI Dashboard Template transforms Notion into your single source of truth for every metric that actually moves the needle.  Stop context-switching between 5+ tools to understand your store's performance
